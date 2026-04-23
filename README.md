@@ -15,7 +15,11 @@ Proje, yazılım mimarisi prensiplerine uygun olarak header (.h) ve kaynak (.c) 
 - turler.h: Ortak veri yapıları (Struct tanımları).
 ## Zaman Karmaşıklığı (Big-O)
 1) İşlem - 2) Algoritma - 3) Karmaşıklık
+   
 İstek Ekleme -  Min-Heap Insertion - O(\log n)
+
 Öncelikliyi Çıkarma - Extract Min - O(\log n)
+
 En Öncelikliyi Bulma - Peek (Kök Erişimi) - O(1)
+
 Bellek Alanı - Dynamic Array - O(n)
